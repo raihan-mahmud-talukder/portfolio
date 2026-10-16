@@ -1,0 +1,21 @@
+footer {
+    background: gray;
+    text-transform: uppercase;
+    height: 4rem;
+    padding: 1rem;
+}
+
+footer div {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+footer img {
+    width: 2rem;
+}
+
+footer p {
+    text-align: center;
+}
+
