@@ -1,4 +1,4 @@
-export const Contact = () => {
+export const Contacts = () => {
     return (
         <section>
             <h2>Contact</h2>
