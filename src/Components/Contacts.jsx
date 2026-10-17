@@ -4,6 +4,7 @@ export const Contacts = () => {
             <h2>Contact</h2>
             <p>Get in touch with me || raihan.mahmud@yandex.com</p>
             <p>Have a look into my code base || github.com/raihan-mahmud-talukder</p>
+            <p>Feel free to hire me || https://www.freelancer.com/u/raihan0mahmud</p>
         </section>
     )
 }
