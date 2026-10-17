@@ -1,4 +1,5 @@
 export const Courses = () => {
+    document.title = 'Courses'
     return (
         <section>
             <h2>Courses</h2>

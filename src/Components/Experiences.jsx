@@ -1,4 +1,5 @@
 export const Experiences = () => {
+    document.title = 'Experience'
     return (
         <section>
             <h2 class="container intro">Experience</h2>

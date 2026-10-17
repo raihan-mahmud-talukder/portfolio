@@ -1,4 +1,5 @@
 export const About = () => {
+    document.title = 'About'
     return (
         <section>
             <h2>About</h2>
