@@ -15,3 +15,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
   monospace;
 }
+
+section {
+  color: black;
+  text-align: center;
+}
+
+section h2 {
+  text-transform: uppercase;
+}
+
+section li {
+  list-style: none;
+  padding: 0.25rem 0;
+}
