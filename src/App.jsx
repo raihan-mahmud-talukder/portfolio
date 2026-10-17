@@ -1,5 +1,5 @@
-import { Footer } from "./components/footer"
-import { Header } from "./components/header"
+import { Footer } from "./Components/Footer"
+import { Header } from "./Components/Header"
 
 export const App = () => {
   return (
