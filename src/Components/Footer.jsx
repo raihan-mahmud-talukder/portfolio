@@ -17,6 +17,9 @@ export const Footer = () => {
                 <a href="mailto:raihan.mahmud@yandex.com" target="_blank">
                     <img src="images/email-icon.svg" alt="email" />
                 </a>
+                <a href="https://wa.me/8801521125090?text=I'm%20interested%20in%20your%20software%20for%20sale" target="_blank">
+                    <img src="images/whatsapp-icon.svg" alt="whatsapp" />
+                </a>
             </div>
             <p>Copyright: {new Date().getFullYear()} © Shaikh Raihan Mahmud Talukder</p>
         </footer>
