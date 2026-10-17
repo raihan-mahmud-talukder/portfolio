@@ -1,0 +1,40 @@
+article {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+article div {
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    /* border: 1px solid green; */
+    padding: 10px;
+    box-shadow: 2px 2px 5px green;
+}
+
+article div img {
+    width: 10rem;
+    height: 15rem;
+}
+
+article div h2 {
+    color: black;
+    text-align: center;
+}
+article div p {
+    background: grey;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+article div p a {
+    text-decoration: none;
+    color: white;
+}
+
+article div p a:hover {
+    color: black;
+}
