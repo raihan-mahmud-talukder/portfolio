@@ -8,9 +8,10 @@ body {
   color: white;
   background: lightgray;
   box-sizing: border-box;
+  font-family: Ubuntu;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  monospace;
 }

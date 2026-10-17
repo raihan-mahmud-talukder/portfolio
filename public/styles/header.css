@@ -1,3 +1,35 @@
 header {
     background: green;
+    display: flex;
+    justify-content: space-between;
+}
+
+header img {
+    width: 5rem;
+    height: 3rem;
+    cursor: pointer;
+}
+
+header ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+header span {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
 }
